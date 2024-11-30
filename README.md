@@ -28,7 +28,7 @@ O projeto inclui **enumerações** para categorizar os produtos e **regras de ne
 
 Abaixo está o diagrama UML criado para planejar as classes do sistema:  
 
-![Diagrama de Classe UML](Diagrama_de_Classe_UML.pdf)  
+![Diagrama de Classe UML](Diagrama_Uml.pdf)  
 
 **Descrição das Classes:**  
 1. **Produto**  
