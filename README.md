@@ -47,15 +47,3 @@ Abaixo está o diagrama UML criado para planejar as classes do sistema:
      - `carregarProdutos(): ArrayList<Produto>`  
 
 ---
-
-## 👥 Equipe de Desenvolvimento  
-
-- **Marcos Vinicios Fernandes**  
-- [Insira os nomes dos outros participantes]  
-
----
-
-## 🔗 Repositório  
-
-Confira o código-fonte no repositório GitHub:  
-👉 [Estoque de Produtos](https://github.com/mrkn03/Estoque)  
